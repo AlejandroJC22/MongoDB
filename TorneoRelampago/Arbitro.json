@@ -23,5 +23,10 @@
     "_id": 5,
     "Nombre_Arbitro": "Sebastián Vela",
     "Posición": "Mesa"
+  },
+  {
+    "_id": 6,
+    "Nombre_Arbitro": "Hector Zamorano",
+    "Posición": "Mesa"
   }
 ]
